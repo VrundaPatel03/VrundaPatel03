@@ -39,7 +39,7 @@ I believe consistency, curiosity, and real projects matter more than shortcuts.
 <p align="center">
 
   !! Commming Soon !!
-   />
+  
   
 </p>
 
