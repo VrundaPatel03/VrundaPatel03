@@ -1,67 +1,68 @@
-# Hi, I'm Vrunda H. Patel 👋
+<h1 align="center">Hi, I’m Vrunda H. Patel 👋</h1>
 
-🚀 *Aspiring Web Developer | BCA Student | Front-End Enthusiast*
-
-I enjoy turning ideas into clean, responsive, and user-focused web experiences.  
-As a Bachelor of Computer Applications (BCA) student, I am building a strong foundation in front-end development while continuously exploring new technologies and improving my problem-solving skills.
-
-I believe in writing simple, efficient code and learning through real-world projects and collaboration.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Web+Developer;BCA+Student;Front-End+Learner;Building+one+project+at+a+time&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 💡 What I Do
-- Build responsive and modern web interfaces  
-- Focus on clean UI/UX and usability  
-- Learn by experimenting, debugging, and improving existing code  
-- Collaborate effectively in team-based environments  
+### 🧠 About Me
+I’m a Bachelor of Computer Applications (BCA) student who enjoys building clean, responsive, and meaningful web interfaces.  
+I focus on understanding *why* things work, not just *how*.
+
+I believe consistency, curiosity, and real projects matter more than shortcuts.
 
 ---
 
-## 🎓 Education
-**Bachelor of Computer Applications (BCA)**  
-ITM (SLS) Baroda University, Vadodara  
-📍 2023 – 2026 | CGPA: 7.48  
-
-**Relevant Coursework:**  
-Web Development • Data Structures • DBMS • C/C++ • Java (OOP)
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,java,mysql&theme=light" />
+</p>
 
 ---
 
-## 🧩 Experience
-**Web Development Intern — SnT Solution**  
-📅 May 15 – June 30  
-
-- Built and enhanced responsive web pages using HTML, CSS, JavaScript, and Bootstrap  
-- Improved UI/UX components with a focus on accessibility and performance  
-- Assisted in debugging, testing, and optimizing real-world web projects  
-- Gained hands-on exposure to hosting and collaborative development workflows  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
-**Frontend:** HTML • CSS • JavaScript • Bootstrap  
-**Programming:** C • C++ • Java  
-**Database:** SQL (Fundamentals)  
+### 🚀 What I’m Working On
+- Improving front-end fundamentals  
+- Writing cleaner HTML, CSS & JavaScript  
+- Building responsive, real-world projects  
+- Learning through debugging and iteration  
 
 ---
 
-## 🚀 Projects
-- **Responsive Web Design Projects** – Mobile-first layouts with optimized performance  
-- **Mini Hackathon Projects (Explora Club)** – Team-based IT prototypes and problem-solving solutions  
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced JavaScript  
+### 🌱 Currently Learning
+- Advanced JavaScript concepts  
 - UI/UX best practices  
-- Real-world project structuring  
+- Project structuring & optimization  
 
 ---
 
-## 📫 Let's Connect
-📧 Email: **vrundap452@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/vrunda-patel-39aa11317**
+### 📫 Connect With Me
+<p>
+  <a href="mailto:vrundap452@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square">
+  </a>
+  <a href="https://www.linkedin.com/in/vrunda-patel-39aa11317">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square">
+  </a>
+</p>
 
 ---
 
-✨ *Always learning. Always building. Always improving.*
+<p align="center">
+  <em>Learning. Building. Improving — one commit at a time.</em>
+</p>
