@@ -22,10 +22,8 @@ I believe consistency, curiosity, and real projects matter more than shortcuts.
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
+
+!! Comming Soon !!
 
 ---
 
@@ -39,7 +37,10 @@ I believe consistency, curiosity, and real projects matter more than shortcuts.
 
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal" />
+
+  !! Commming Soon !!
+   />
+  
 </p>
 
 ---
