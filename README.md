@@ -1,62 +1,67 @@
-# 👋 Hi, I'm Vrunda H. Patel
+# Hi, I'm Vrunda H. Patel 👋
 
-### 💻 Web Development Intern | BCA Student
+🚀 *Aspiring Web Developer | BCA Student | Front-End Enthusiast*
 
-I am an enthusiastic Bachelor of Computer Applications (BCA) student with hands-on experience in front-end web development. I enjoy building responsive, user-friendly web interfaces and continuously learning new technologies to grow as a developer.
+I enjoy turning ideas into clean, responsive, and user-focused web experiences.  
+As a Bachelor of Computer Applications (BCA) student, I am building a strong foundation in front-end development while continuously exploring new technologies and improving my problem-solving skills.
+
+I believe in writing simple, efficient code and learning through real-world projects and collaboration.
+
+---
+
+## 💡 What I Do
+- Build responsive and modern web interfaces  
+- Focus on clean UI/UX and usability  
+- Learn by experimenting, debugging, and improving existing code  
+- Collaborate effectively in team-based environments  
 
 ---
 
 ## 🎓 Education
 **Bachelor of Computer Applications (BCA)**  
 ITM (SLS) Baroda University, Vadodara  
-📅 2023 – 2026 | CGPA: 7.48  
-
-**Higher Secondary (GSEB)**  
-Ambe Vidhyalay  
-📅 2022 – 2023  
+📍 2023 – 2026 | CGPA: 7.48  
 
 **Relevant Coursework:**  
-Data Structures, Web Development, Database Management Systems,  
-Programming in C/C++, Object-Oriented Programming (Java)
+Web Development • Data Structures • DBMS • C/C++ • Java (OOP)
 
 ---
 
-## 💼 Experience
-### Web Development Intern  
-**SnT Solution, Vadodara**  
-📅 15 May – 30 June  
+## 🧩 Experience
+**Web Development Intern — SnT Solution**  
+📅 May 15 – June 30  
 
-- Designed and enhanced responsive web pages using HTML, CSS, JavaScript, and Bootstrap  
-- Improved front-end UI/UX components to ensure better usability and user experience  
-- Assisted in debugging, testing, and performance optimization  
-- Gained practical exposure to web hosting and collaborative development workflows  
-
----
-
-## 🚀 Academic Projects
-### Responsive Web Design Project
-- Developed responsive web applications using HTML, CSS, JavaScript, and Bootstrap  
-- Optimized layouts for performance, usability, and cross-device compatibility  
-
-### Mini Hackathon Projects (Explora Club)
-- Contributed to innovative IT prototypes in team-based hackathons  
-- Collaborated on problem analysis, solution design, and technical presentations  
+- Built and enhanced responsive web pages using HTML, CSS, JavaScript, and Bootstrap  
+- Improved UI/UX components with a focus on accessibility and performance  
+- Assisted in debugging, testing, and optimizing real-world web projects  
+- Gained hands-on exposure to hosting and collaborative development workflows  
 
 ---
 
-## 🛠️ Skills
-**Technical Skills:**  
-HTML, CSS, JavaScript, Bootstrap, C, C++, Basic Java, SQL Fundamentals  
-
-**Soft Skills:**  
-Communication, Team Collaboration, Problem Solving, Time Management, Adaptability  
+## 🛠 Tech Stack
+**Frontend:** HTML • CSS • JavaScript • Bootstrap  
+**Programming:** C • C++ • Java  
+**Database:** SQL (Fundamentals)  
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email: vrundap452@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/vrunda-patel-39aa11317](https://www.linkedin.com/in/vrunda-patel-39aa11317)
+## 🚀 Projects
+- **Responsive Web Design Projects** – Mobile-first layouts with optimized performance  
+- **Mini Hackathon Projects (Explora Club)** – Team-based IT prototypes and problem-solving solutions  
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
+## 🌱 Currently Learning
+- Advanced JavaScript  
+- UI/UX best practices  
+- Real-world project structuring  
+
+---
+
+## 📫 Let's Connect
+📧 Email: **vrundap452@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/vrunda-patel-39aa11317**
+
+---
+
+✨ *Always learning. Always building. Always improving.*
